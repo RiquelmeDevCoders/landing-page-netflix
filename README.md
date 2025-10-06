@@ -133,7 +133,7 @@ rgba(229, 9, 20, 0.1) a rgba(229, 9, 20, 0.8)
 
 Clone ou baixe os arquivos
 
-bashgit clone https://github.com/seu-usuario/netflix-landing-page.git
+bashgit clone https://github.com/RiquelmeDevCoders/landing-page-netflix.git
 
 Abra o arquivo index.html
 
