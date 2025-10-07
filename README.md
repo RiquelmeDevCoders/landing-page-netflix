@@ -1,5 +1,7 @@
 🎬 Netflix Landing Page
 
+Ver projeto: https://estudo-page.netlify.app/
+
 📋 Sobre o Projeto
 Esta é uma landing page fictícia da Netflix, desenvolvida completamente à mão como projeto de estudo e demonstração de habilidades em desenvolvimento front-end. O objetivo foi recriar a experiência visual premium da Netflix, implementando animações complexas e um design moderno totalmente responsivo.
 
